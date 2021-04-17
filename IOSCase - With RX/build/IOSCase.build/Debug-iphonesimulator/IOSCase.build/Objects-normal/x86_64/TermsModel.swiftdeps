@@ -1,0 +1,408 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "TermsModel"
+provides-nominal:
+- "7IOSCase10TermsModelV"
+- "7IOSCase10TermsModelV10CodingKeysO"
+provides-member:
+- ["7IOSCase10TermsModelV", ""]
+- ["7IOSCase10TermsModelV10CodingKeysO", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "=="
+- "Bool"
+- "Codable"
+- "CodingKey"
+- "Double"
+- !private "FloatLiteralType"
+- "Int"
+- !private "IntegerLiteralType"
+- "String"
+- "StringLiteralType"
+- "TermsModel"
+- !private "_findStringSwitchCase"
+- !private "~="
+depends-member:
+- ["s9CodingKeyP", "=="]
+- ["s9CodingKeyP", "RawValue"]
+- ["s9CodingKeyP", ""]
+- ["s9CodingKeyP", "_Default_RawValue"]
+- !private ["s9CodingKeyP", "_findStringSwitchCase"]
+- ["s9CodingKeyP", "_rawHashValue"]
+- ["s9CodingKeyP", "debugDescription"]
+- ["s9CodingKeyP", "description"]
+- ["s9CodingKeyP", "hash"]
+- ["s9CodingKeyP", "hashValue"]
+- ["s9CodingKeyP", "init"]
+- ["s9CodingKeyP", "intValue"]
+- ["s9CodingKeyP", "rawValue"]
+- ["s9CodingKeyP", "stringValue"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "=="]
+- ["7IOSCase10TermsModelV10CodingKeysO", "RawValue"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "_Default_RawValue"]
+- !private ["7IOSCase10TermsModelV10CodingKeysO", "_findStringSwitchCase"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "_rawHashValue"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "artistID"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "artistName"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "artistViewURL"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "artworkUrl100"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "artworkUrl30"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "artworkUrl60"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "collectionArtistID"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "collectionArtistViewURL"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "collectionCensoredName"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "collectionExplicitness"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "collectionHDPrice"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "collectionID"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "collectionName"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "collectionPrice"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "collectionViewURL"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "contentAdvisoryRating"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "copyright"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "country"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "currency"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "debugDescription"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "deinit"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "description"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "discCount"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "discNumber"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "hasITunesExtras"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "hash"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "hashValue"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "init"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "intValue"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "isStreamable"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "kind"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "longDescription"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "previewURL"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "primaryGenreName"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "rawValue"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "releaseDate"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "resultDescription"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "shortDescription"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "stringValue"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "trackCensoredName"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "trackCount"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "trackExplicitness"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "trackHDPrice"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "trackHDRentalPrice"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "trackID"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "trackName"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "trackNumber"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "trackPrice"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "trackRentalPrice"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "trackTimeMillis"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "trackViewURL"]
+- ["7IOSCase10TermsModelV10CodingKeysO", "wrapperType"]
+- ["s28CustomDebugStringConvertibleP", "=="]
+- ["s28CustomDebugStringConvertibleP", "RawValue"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- ["s28CustomDebugStringConvertibleP", "_Default_RawValue"]
+- !private ["s28CustomDebugStringConvertibleP", "_findStringSwitchCase"]
+- ["s28CustomDebugStringConvertibleP", "_rawHashValue"]
+- ["s28CustomDebugStringConvertibleP", "debugDescription"]
+- ["s28CustomDebugStringConvertibleP", "description"]
+- ["s28CustomDebugStringConvertibleP", "hash"]
+- ["s28CustomDebugStringConvertibleP", "hashValue"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "intValue"]
+- ["s28CustomDebugStringConvertibleP", "rawValue"]
+- ["s28CustomDebugStringConvertibleP", "stringValue"]
+- ["s23CustomStringConvertibleP", "=="]
+- ["s23CustomStringConvertibleP", "RawValue"]
+- ["s23CustomStringConvertibleP", ""]
+- ["s23CustomStringConvertibleP", "_Default_RawValue"]
+- !private ["s23CustomStringConvertibleP", "_findStringSwitchCase"]
+- ["s23CustomStringConvertibleP", "_rawHashValue"]
+- ["s23CustomStringConvertibleP", "debugDescription"]
+- ["s23CustomStringConvertibleP", "description"]
+- ["s23CustomStringConvertibleP", "hash"]
+- ["s23CustomStringConvertibleP", "hashValue"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "intValue"]
+- ["s23CustomStringConvertibleP", "rawValue"]
+- ["s23CustomStringConvertibleP", "stringValue"]
+- ["Se", ""]
+- !private ["Se", "_findStringSwitchCase"]
+- !private ["Se", "artistID"]
+- !private ["Se", "artistName"]
+- !private ["Se", "artistViewURL"]
+- !private ["Se", "artworkUrl100"]
+- !private ["Se", "artworkUrl30"]
+- !private ["Se", "artworkUrl60"]
+- !private ["Se", "collectionArtistID"]
+- !private ["Se", "collectionArtistViewURL"]
+- !private ["Se", "collectionCensoredName"]
+- !private ["Se", "collectionExplicitness"]
+- !private ["Se", "collectionHDPrice"]
+- !private ["Se", "collectionID"]
+- !private ["Se", "collectionName"]
+- !private ["Se", "collectionPrice"]
+- !private ["Se", "collectionViewURL"]
+- !private ["Se", "contentAdvisoryRating"]
+- !private ["Se", "copyright"]
+- !private ["Se", "country"]
+- !private ["Se", "currency"]
+- !private ["Se", "discCount"]
+- !private ["Se", "discNumber"]
+- ["Se", "encode"]
+- !private ["Se", "hasITunesExtras"]
+- ["Se", "init"]
+- !private ["Se", "isStreamable"]
+- !private ["Se", "kind"]
+- !private ["Se", "longDescription"]
+- !private ["Se", "previewURL"]
+- !private ["Se", "primaryGenreName"]
+- !private ["Se", "releaseDate"]
+- !private ["Se", "resultDescription"]
+- !private ["Se", "shortDescription"]
+- !private ["Se", "trackCensoredName"]
+- !private ["Se", "trackCount"]
+- !private ["Se", "trackExplicitness"]
+- !private ["Se", "trackHDPrice"]
+- !private ["Se", "trackHDRentalPrice"]
+- !private ["Se", "trackID"]
+- !private ["Se", "trackName"]
+- !private ["Se", "trackNumber"]
+- !private ["Se", "trackPrice"]
+- !private ["Se", "trackRentalPrice"]
+- !private ["Se", "trackTimeMillis"]
+- !private ["Se", "trackViewURL"]
+- !private ["Se", "wrapperType"]
+- !private ["s7DecoderP", "container"]
+- ["SE", ""]
+- !private ["SE", "_findStringSwitchCase"]
+- !private ["SE", "artistID"]
+- !private ["SE", "artistName"]
+- !private ["SE", "artistViewURL"]
+- !private ["SE", "artworkUrl100"]
+- !private ["SE", "artworkUrl30"]
+- !private ["SE", "artworkUrl60"]
+- !private ["SE", "collectionArtistID"]
+- !private ["SE", "collectionArtistViewURL"]
+- !private ["SE", "collectionCensoredName"]
+- !private ["SE", "collectionExplicitness"]
+- !private ["SE", "collectionHDPrice"]
+- !private ["SE", "collectionID"]
+- !private ["SE", "collectionName"]
+- !private ["SE", "collectionPrice"]
+- !private ["SE", "collectionViewURL"]
+- !private ["SE", "contentAdvisoryRating"]
+- !private ["SE", "copyright"]
+- !private ["SE", "country"]
+- !private ["SE", "currency"]
+- !private ["SE", "discCount"]
+- !private ["SE", "discNumber"]
+- ["SE", "encode"]
+- !private ["SE", "hasITunesExtras"]
+- ["SE", "init"]
+- !private ["SE", "isStreamable"]
+- !private ["SE", "kind"]
+- !private ["SE", "longDescription"]
+- !private ["SE", "previewURL"]
+- !private ["SE", "primaryGenreName"]
+- !private ["SE", "releaseDate"]
+- !private ["SE", "resultDescription"]
+- !private ["SE", "shortDescription"]
+- !private ["SE", "trackCensoredName"]
+- !private ["SE", "trackCount"]
+- !private ["SE", "trackExplicitness"]
+- !private ["SE", "trackHDPrice"]
+- !private ["SE", "trackHDRentalPrice"]
+- !private ["SE", "trackID"]
+- !private ["SE", "trackName"]
+- !private ["SE", "trackNumber"]
+- !private ["SE", "trackPrice"]
+- !private ["SE", "trackRentalPrice"]
+- !private ["SE", "trackTimeMillis"]
+- !private ["SE", "trackViewURL"]
+- !private ["SE", "wrapperType"]
+- !private ["s7EncoderP", "container"]
+- ["SQ", "=="]
+- ["SQ", "RawValue"]
+- ["SQ", ""]
+- ["SQ", "_Default_RawValue"]
+- !private ["SQ", "_findStringSwitchCase"]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "debugDescription"]
+- ["SQ", "description"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "init"]
+- ["SQ", "intValue"]
+- ["SQ", "rawValue"]
+- ["SQ", "stringValue"]
+- ["SH", "=="]
+- ["SH", "RawValue"]
+- ["SH", ""]
+- ["SH", "_Default_RawValue"]
+- !private ["SH", "_findStringSwitchCase"]
+- ["SH", "_rawHashValue"]
+- ["SH", "debugDescription"]
+- ["SH", "description"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "init"]
+- ["SH", "intValue"]
+- ["SH", "rawValue"]
+- ["SH", "stringValue"]
+- !private ["s22KeyedDecodingContainerV", "decode"]
+- !private ["s22KeyedDecodingContainerV", "decodeIfPresent"]
+- !private ["s30KeyedDecodingContainerProtocolP", "decode"]
+- !private ["s30KeyedDecodingContainerProtocolP", "decodeIfPresent"]
+- !private ["s22KeyedEncodingContainerV", "encode"]
+- !private ["s22KeyedEncodingContainerV", "encodeIfPresent"]
+- !private ["s30KeyedEncodingContainerProtocolP", "encode"]
+- !private ["s30KeyedEncodingContainerProtocolP", "encodeIfPresent"]
+- ["SY", "=="]
+- ["SY", "RawValue"]
+- ["SY", ""]
+- ["SY", "_Default_RawValue"]
+- !private ["SY", "_findStringSwitchCase"]
+- ["SY", "_rawHashValue"]
+- ["SY", "debugDescription"]
+- ["SY", "description"]
+- ["SY", "hash"]
+- ["SY", "hashValue"]
+- ["SY", "init"]
+- ["SY", "intValue"]
+- ["SY", "rawValue"]
+- ["SY", "stringValue"]
+- ["7IOSCase10TermsModelV", "Bool"]
+- ["7IOSCase10TermsModelV", "CodingKey"]
+- ["7IOSCase10TermsModelV", "CodingKeys"]
+- ["7IOSCase10TermsModelV", "Double"]
+- ["7IOSCase10TermsModelV", "Int"]
+- ["7IOSCase10TermsModelV", "String"]
+- !private ["7IOSCase10TermsModelV", "_findStringSwitchCase"]
+- ["7IOSCase10TermsModelV", "artistID"]
+- ["7IOSCase10TermsModelV", "artistName"]
+- ["7IOSCase10TermsModelV", "artistViewURL"]
+- ["7IOSCase10TermsModelV", "artworkUrl100"]
+- ["7IOSCase10TermsModelV", "artworkUrl30"]
+- ["7IOSCase10TermsModelV", "artworkUrl60"]
+- ["7IOSCase10TermsModelV", "collectionArtistID"]
+- ["7IOSCase10TermsModelV", "collectionArtistViewURL"]
+- ["7IOSCase10TermsModelV", "collectionCensoredName"]
+- ["7IOSCase10TermsModelV", "collectionExplicitness"]
+- ["7IOSCase10TermsModelV", "collectionHDPrice"]
+- ["7IOSCase10TermsModelV", "collectionID"]
+- ["7IOSCase10TermsModelV", "collectionName"]
+- ["7IOSCase10TermsModelV", "collectionPrice"]
+- ["7IOSCase10TermsModelV", "collectionViewURL"]
+- ["7IOSCase10TermsModelV", "contentAdvisoryRating"]
+- ["7IOSCase10TermsModelV", "copyright"]
+- ["7IOSCase10TermsModelV", "country"]
+- ["7IOSCase10TermsModelV", "currency"]
+- ["7IOSCase10TermsModelV", "deinit"]
+- ["7IOSCase10TermsModelV", "discCount"]
+- ["7IOSCase10TermsModelV", "discNumber"]
+- ["7IOSCase10TermsModelV", "encode"]
+- ["7IOSCase10TermsModelV", "hasITunesExtras"]
+- ["7IOSCase10TermsModelV", "init"]
+- ["7IOSCase10TermsModelV", "isStreamable"]
+- ["7IOSCase10TermsModelV", "kind"]
+- ["7IOSCase10TermsModelV", "longDescription"]
+- ["7IOSCase10TermsModelV", "previewURL"]
+- ["7IOSCase10TermsModelV", "primaryGenreName"]
+- ["7IOSCase10TermsModelV", "releaseDate"]
+- ["7IOSCase10TermsModelV", "resultDescription"]
+- ["7IOSCase10TermsModelV", "shortDescription"]
+- ["7IOSCase10TermsModelV", "trackCensoredName"]
+- ["7IOSCase10TermsModelV", "trackCount"]
+- ["7IOSCase10TermsModelV", "trackExplicitness"]
+- ["7IOSCase10TermsModelV", "trackHDPrice"]
+- ["7IOSCase10TermsModelV", "trackHDRentalPrice"]
+- ["7IOSCase10TermsModelV", "trackID"]
+- ["7IOSCase10TermsModelV", "trackName"]
+- ["7IOSCase10TermsModelV", "trackNumber"]
+- ["7IOSCase10TermsModelV", "trackPrice"]
+- ["7IOSCase10TermsModelV", "trackRentalPrice"]
+- ["7IOSCase10TermsModelV", "trackTimeMillis"]
+- ["7IOSCase10TermsModelV", "trackViewURL"]
+- ["7IOSCase10TermsModelV", "wrapperType"]
+depends-nominal:
+- "s9CodingKeyP"
+- "7IOSCase10TermsModelV10CodingKeysO"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- !private "s7DecoderP"
+- "SE"
+- !private "s7EncoderP"
+- "SQ"
+- "SH"
+- !private "s22KeyedDecodingContainerV"
+- !private "s30KeyedDecodingContainerProtocolP"
+- !private "s22KeyedEncodingContainerV"
+- !private "s30KeyedEncodingContainerProtocolP"
+- "SY"
+- "7IOSCase10TermsModelV"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreMIDI.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreMedia.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/simd.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Accelerate.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/AVFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreAudio.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/os.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Modules/RxCocoa.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Modules/Kingfisher.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxSwift/RxSwift.framework/Modules/RxSwift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxRelay/RxRelay.framework/Modules/RxRelay.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/_RX.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/RxCocoa-umbrella.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher-umbrella.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxSwift/RxSwift.framework/Headers/RxSwift-umbrella.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxRelay/RxRelay.framework/Headers/RxRelay-umbrella.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/RxCocoa.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/_RXObjCRuntime.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/RxCocoaRuntime.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/_RXKVOObserver.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/RxCocoa-Swift.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher-Swift.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxSwift/RxSwift.framework/Headers/RxSwift-Swift.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxRelay/RxRelay.framework/Headers/RxRelay-Swift.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/_RXDelegateProxy.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Modules/module.modulemap"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Modules/module.modulemap"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxSwift/RxSwift.framework/Modules/module.modulemap"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxRelay/RxRelay.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreMedia.framework/Headers/CoreMedia.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Accelerate.framework/Headers/Accelerate.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreAudioTypes.framework/Headers/CoreAudioTypes.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/os.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/AVKit.framework/Headers/AVKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/WebKit.framework/Headers/WebKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/MediaToolbox.framework/Headers/MediaToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "2111707bb4ca1582da42f9496f0db8a5"

@@ -1,0 +1,657 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "TermsListView"
+provides-nominal:
+- "7IOSCase13TermsListViewC"
+provides-member:
+- ["7IOSCase13TermsListViewC", ""]
+provides-dynamic-lookup:
+- "configureView"
+- "searchController"
+- "tableView"
+depends-top-level:
+- "AssignmentPrecedence"
+- "CGRect"
+- "FloatLiteralType"
+- "IntegerLiteralType"
+- "NSCoder"
+- "StringLiteralType"
+- "TermsListView"
+- "TermsTableViewCell"
+- "UISearchController"
+- "UITableView"
+- "UIView"
+- "ViewType"
+depends-member:
+- ["So15CALayerDelegateP", "TermsTableViewCell"]
+- ["So15CALayerDelegateP", "UISearchController"]
+- ["So15CALayerDelegateP", "UITableView"]
+- ["So15CALayerDelegateP", ""]
+- !private ["So15CALayerDelegateP", "addSubview"]
+- !private ["So15CALayerDelegateP", "backgroundColor"]
+- ["So15CALayerDelegateP", "configureView"]
+- !private ["So15CALayerDelegateP", "frame"]
+- ["So15CALayerDelegateP", "init"]
+- ["So15CALayerDelegateP", "placeholder"]
+- ["So15CALayerDelegateP", "register"]
+- ["So15CALayerDelegateP", "rowHeight"]
+- !private ["So15CALayerDelegateP", "tableView"]
+- ["So6CGRectV", "zero"]
+- ["s7CVarArgP", "TermsTableViewCell"]
+- ["s7CVarArgP", "UISearchController"]
+- ["s7CVarArgP", "UITableView"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "addSubview"]
+- !private ["s7CVarArgP", "backgroundColor"]
+- ["s7CVarArgP", "configureView"]
+- !private ["s7CVarArgP", "frame"]
+- ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "placeholder"]
+- ["s7CVarArgP", "register"]
+- ["s7CVarArgP", "rowHeight"]
+- ["s7CVarArgP", "searchBar"]
+- !private ["s7CVarArgP", "tableView"]
+- !private ["s7CVarArgP", "white"]
+- ["s28CustomDebugStringConvertibleP", "TermsTableViewCell"]
+- ["s28CustomDebugStringConvertibleP", "UISearchController"]
+- ["s28CustomDebugStringConvertibleP", "UITableView"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "addSubview"]
+- !private ["s28CustomDebugStringConvertibleP", "backgroundColor"]
+- ["s28CustomDebugStringConvertibleP", "configureView"]
+- !private ["s28CustomDebugStringConvertibleP", "frame"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "placeholder"]
+- ["s28CustomDebugStringConvertibleP", "register"]
+- ["s28CustomDebugStringConvertibleP", "rowHeight"]
+- ["s28CustomDebugStringConvertibleP", "searchBar"]
+- !private ["s28CustomDebugStringConvertibleP", "tableView"]
+- !private ["s28CustomDebugStringConvertibleP", "white"]
+- ["s28CustomDebugStringConvertibleP", "zero"]
+- !private ["s17CustomReflectableP", "white"]
+- ["s17CustomReflectableP", "zero"]
+- ["s23CustomStringConvertibleP", "TermsTableViewCell"]
+- ["s23CustomStringConvertibleP", "UISearchController"]
+- ["s23CustomStringConvertibleP", "UITableView"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "addSubview"]
+- !private ["s23CustomStringConvertibleP", "backgroundColor"]
+- ["s23CustomStringConvertibleP", "configureView"]
+- !private ["s23CustomStringConvertibleP", "frame"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "placeholder"]
+- ["s23CustomStringConvertibleP", "register"]
+- ["s23CustomStringConvertibleP", "rowHeight"]
+- ["s23CustomStringConvertibleP", "searchBar"]
+- !private ["s23CustomStringConvertibleP", "tableView"]
+- !private ["s23CustomStringConvertibleP", "white"]
+- !private ["Se", "white"]
+- ["Se", "zero"]
+- !private ["SE", "white"]
+- ["SE", "zero"]
+- ["SQ", "TermsTableViewCell"]
+- ["SQ", "UISearchController"]
+- ["SQ", "UITableView"]
+- ["SQ", ""]
+- !private ["SQ", "addSubview"]
+- !private ["SQ", "backgroundColor"]
+- ["SQ", "configureView"]
+- !private ["SQ", "frame"]
+- ["SQ", "init"]
+- ["SQ", "placeholder"]
+- ["SQ", "plain"]
+- ["SQ", "register"]
+- ["SQ", "rowHeight"]
+- ["SQ", "searchBar"]
+- !private ["SQ", "tableView"]
+- !private ["SQ", "white"]
+- ["SQ", "zero"]
+- !private ["s23ExpressibleByNilLiteralP", "white"]
+- !private ["7RxCocoa13HasDataSourceP", "frame"]
+- ["7RxCocoa13HasDataSourceP", "init"]
+- ["7RxCocoa13HasDataSourceP", "register"]
+- ["7RxCocoa13HasDataSourceP", "rowHeight"]
+- !private ["7RxCocoa11HasDelegateP", "frame"]
+- ["7RxCocoa11HasDelegateP", "init"]
+- ["7RxCocoa11HasDelegateP", "placeholder"]
+- ["7RxCocoa11HasDelegateP", "register"]
+- ["7RxCocoa11HasDelegateP", "rowHeight"]
+- ["7RxCocoa11HasDelegateP", "searchBar"]
+- !private ["7RxCocoa21HasPrefetchDataSourceP", "frame"]
+- ["7RxCocoa21HasPrefetchDataSourceP", "init"]
+- ["7RxCocoa21HasPrefetchDataSourceP", "register"]
+- ["7RxCocoa21HasPrefetchDataSourceP", "rowHeight"]
+- ["SH", "TermsTableViewCell"]
+- ["SH", "UISearchController"]
+- ["SH", "UITableView"]
+- ["SH", ""]
+- !private ["SH", "addSubview"]
+- !private ["SH", "backgroundColor"]
+- ["SH", "configureView"]
+- !private ["SH", "frame"]
+- ["SH", "init"]
+- ["SH", "placeholder"]
+- ["SH", "plain"]
+- ["SH", "register"]
+- ["SH", "rowHeight"]
+- ["SH", "searchBar"]
+- !private ["SH", "tableView"]
+- !private ["SH", "white"]
+- ["7RxCocoa16KVORepresentableP", "zero"]
+- ["So8NSCodingP", "TermsTableViewCell"]
+- ["So8NSCodingP", "UISearchController"]
+- ["So8NSCodingP", "UITableView"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "addSubview"]
+- !private ["So8NSCodingP", "backgroundColor"]
+- ["So8NSCodingP", "configureView"]
+- !private ["So8NSCodingP", "frame"]
+- ["So8NSCodingP", "init"]
+- ["So8NSCodingP", "placeholder"]
+- ["So8NSCodingP", "register"]
+- ["So8NSCodingP", "rowHeight"]
+- ["So8NSCodingP", "searchBar"]
+- !private ["So8NSCodingP", "tableView"]
+- !private ["So8NSCodingP", "white"]
+- !private ["So9NSCopyingP", "white"]
+- ["So26NSExtensionRequestHandlingP", "init"]
+- ["So26NSExtensionRequestHandlingP", "searchBar"]
+- !private ["So21NSItemProviderReadingP", "white"]
+- !private ["So21NSItemProviderWritingP", "white"]
+- ["So8NSObjectC", "CGRect"]
+- ["So8NSObjectC", "NSCoder"]
+- ["So8NSObjectC", "TermsTableViewCell"]
+- ["So8NSObjectC", "UISearchController"]
+- ["So8NSObjectC", "UITableView"]
+- !private ["So8NSObjectC", "addSubview"]
+- !private ["So8NSObjectC", "backgroundColor"]
+- ["So8NSObjectC", "configureView"]
+- !private ["So8NSObjectC", "frame"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "placeholder"]
+- ["So8NSObjectC", "register"]
+- ["So8NSObjectC", "rowHeight"]
+- ["So8NSObjectC", "searchBar"]
+- ["So8NSObjectC", "searchController"]
+- ["So8NSObjectC", "tableView"]
+- !private ["So8NSObjectC", "white"]
+- ["So8NSObjectP", "TermsTableViewCell"]
+- ["So8NSObjectP", "UISearchController"]
+- ["So8NSObjectP", "UITableView"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "addSubview"]
+- !private ["So8NSObjectP", "backgroundColor"]
+- ["So8NSObjectP", "configureView"]
+- !private ["So8NSObjectP", "frame"]
+- ["So8NSObjectP", "init"]
+- ["So8NSObjectP", "placeholder"]
+- ["So8NSObjectP", "register"]
+- ["So8NSObjectP", "rowHeight"]
+- ["So8NSObjectP", "searchBar"]
+- !private ["So8NSObjectP", "tableView"]
+- !private ["So8NSObjectP", "white"]
+- !private ["So14NSSecureCodingP", "white"]
+- !private ["Sq", "white"]
+- ["SY", "plain"]
+- ["7RxSwift18ReactiveCompatibleP", "TermsTableViewCell"]
+- ["7RxSwift18ReactiveCompatibleP", "UISearchController"]
+- ["7RxSwift18ReactiveCompatibleP", "UITableView"]
+- ["7RxSwift18ReactiveCompatibleP", ""]
+- !private ["7RxSwift18ReactiveCompatibleP", "addSubview"]
+- !private ["7RxSwift18ReactiveCompatibleP", "backgroundColor"]
+- ["7RxSwift18ReactiveCompatibleP", "configureView"]
+- !private ["7RxSwift18ReactiveCompatibleP", "frame"]
+- ["7RxSwift18ReactiveCompatibleP", "init"]
+- ["7RxSwift18ReactiveCompatibleP", "placeholder"]
+- ["7RxSwift18ReactiveCompatibleP", "register"]
+- ["7RxSwift18ReactiveCompatibleP", "rowHeight"]
+- ["7RxSwift18ReactiveCompatibleP", "searchBar"]
+- !private ["7RxSwift18ReactiveCompatibleP", "tableView"]
+- !private ["7RxSwift18ReactiveCompatibleP", "white"]
+- ["So16UITableViewStyleV", "plain"]
+- ["7IOSCase13TermsListViewC", "CGRect"]
+- ["7IOSCase13TermsListViewC", "NSCoder"]
+- ["7IOSCase13TermsListViewC", "TermsTableViewCell"]
+- ["7IOSCase13TermsListViewC", "UISearchController"]
+- ["7IOSCase13TermsListViewC", "UITableView"]
+- !private ["7IOSCase13TermsListViewC", "addSubview"]
+- !private ["7IOSCase13TermsListViewC", "backgroundColor"]
+- ["7IOSCase13TermsListViewC", "configureView"]
+- ["7IOSCase13TermsListViewC", "deinit"]
+- !private ["7IOSCase13TermsListViewC", "frame"]
+- ["7IOSCase13TermsListViewC", "init"]
+- ["7IOSCase13TermsListViewC", "searchController"]
+- ["7IOSCase13TermsListViewC", "tableView"]
+- ["So29UIAccessibilityIdentificationP", "TermsTableViewCell"]
+- ["So29UIAccessibilityIdentificationP", "UISearchController"]
+- ["So29UIAccessibilityIdentificationP", "UITableView"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So29UIAccessibilityIdentificationP", "addSubview"]
+- !private ["So29UIAccessibilityIdentificationP", "backgroundColor"]
+- ["So29UIAccessibilityIdentificationP", "configureView"]
+- !private ["So29UIAccessibilityIdentificationP", "frame"]
+- ["So29UIAccessibilityIdentificationP", "init"]
+- ["So29UIAccessibilityIdentificationP", "placeholder"]
+- ["So29UIAccessibilityIdentificationP", "register"]
+- ["So29UIAccessibilityIdentificationP", "rowHeight"]
+- !private ["So29UIAccessibilityIdentificationP", "tableView"]
+- ["So12UIAppearanceP", "TermsTableViewCell"]
+- ["So12UIAppearanceP", "UISearchController"]
+- ["So12UIAppearanceP", "UITableView"]
+- ["So12UIAppearanceP", ""]
+- !private ["So12UIAppearanceP", "addSubview"]
+- !private ["So12UIAppearanceP", "backgroundColor"]
+- ["So12UIAppearanceP", "configureView"]
+- !private ["So12UIAppearanceP", "frame"]
+- ["So12UIAppearanceP", "init"]
+- ["So12UIAppearanceP", "placeholder"]
+- ["So12UIAppearanceP", "register"]
+- ["So12UIAppearanceP", "rowHeight"]
+- !private ["So12UIAppearanceP", "tableView"]
+- ["So21UIAppearanceContainerP", "TermsTableViewCell"]
+- ["So21UIAppearanceContainerP", "UISearchController"]
+- ["So21UIAppearanceContainerP", "UITableView"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "addSubview"]
+- !private ["So21UIAppearanceContainerP", "backgroundColor"]
+- ["So21UIAppearanceContainerP", "configureView"]
+- !private ["So21UIAppearanceContainerP", "frame"]
+- ["So21UIAppearanceContainerP", "init"]
+- ["So21UIAppearanceContainerP", "placeholder"]
+- ["So21UIAppearanceContainerP", "register"]
+- ["So21UIAppearanceContainerP", "rowHeight"]
+- ["So21UIAppearanceContainerP", "searchBar"]
+- !private ["So21UIAppearanceContainerP", "tableView"]
+- ["So16UIBarPositioningP", "placeholder"]
+- !private ["So7UIColorC", "white"]
+- ["So18UIContentContainerP", "init"]
+- ["So18UIContentContainerP", "searchBar"]
+- ["So17UICoordinateSpaceP", "TermsTableViewCell"]
+- ["So17UICoordinateSpaceP", "UISearchController"]
+- ["So17UICoordinateSpaceP", "UITableView"]
+- ["So17UICoordinateSpaceP", ""]
+- !private ["So17UICoordinateSpaceP", "addSubview"]
+- !private ["So17UICoordinateSpaceP", "backgroundColor"]
+- ["So17UICoordinateSpaceP", "configureView"]
+- !private ["So17UICoordinateSpaceP", "frame"]
+- ["So17UICoordinateSpaceP", "init"]
+- ["So17UICoordinateSpaceP", "placeholder"]
+- ["So17UICoordinateSpaceP", "register"]
+- ["So17UICoordinateSpaceP", "rowHeight"]
+- !private ["So17UICoordinateSpaceP", "tableView"]
+- !private ["So23UIDataSourceTranslatingP", "frame"]
+- ["So23UIDataSourceTranslatingP", "init"]
+- ["So23UIDataSourceTranslatingP", "register"]
+- ["So23UIDataSourceTranslatingP", "rowHeight"]
+- ["So13UIDynamicItemP", "TermsTableViewCell"]
+- ["So13UIDynamicItemP", "UISearchController"]
+- ["So13UIDynamicItemP", "UITableView"]
+- ["So13UIDynamicItemP", ""]
+- !private ["So13UIDynamicItemP", "addSubview"]
+- !private ["So13UIDynamicItemP", "backgroundColor"]
+- ["So13UIDynamicItemP", "configureView"]
+- !private ["So13UIDynamicItemP", "frame"]
+- ["So13UIDynamicItemP", "init"]
+- ["So13UIDynamicItemP", "placeholder"]
+- ["So13UIDynamicItemP", "register"]
+- ["So13UIDynamicItemP", "rowHeight"]
+- !private ["So13UIDynamicItemP", "tableView"]
+- ["So18UIFocusEnvironmentP", "TermsTableViewCell"]
+- ["So18UIFocusEnvironmentP", "UISearchController"]
+- ["So18UIFocusEnvironmentP", "UITableView"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "addSubview"]
+- !private ["So18UIFocusEnvironmentP", "backgroundColor"]
+- ["So18UIFocusEnvironmentP", "configureView"]
+- !private ["So18UIFocusEnvironmentP", "frame"]
+- ["So18UIFocusEnvironmentP", "init"]
+- ["So18UIFocusEnvironmentP", "placeholder"]
+- ["So18UIFocusEnvironmentP", "register"]
+- ["So18UIFocusEnvironmentP", "rowHeight"]
+- ["So18UIFocusEnvironmentP", "searchBar"]
+- !private ["So18UIFocusEnvironmentP", "tableView"]
+- ["So11UIFocusItemP", "TermsTableViewCell"]
+- ["So11UIFocusItemP", "UISearchController"]
+- ["So11UIFocusItemP", "UITableView"]
+- ["So11UIFocusItemP", ""]
+- !private ["So11UIFocusItemP", "addSubview"]
+- !private ["So11UIFocusItemP", "backgroundColor"]
+- ["So11UIFocusItemP", "configureView"]
+- !private ["So11UIFocusItemP", "frame"]
+- ["So11UIFocusItemP", "init"]
+- ["So11UIFocusItemP", "placeholder"]
+- ["So11UIFocusItemP", "register"]
+- ["So11UIFocusItemP", "rowHeight"]
+- !private ["So11UIFocusItemP", "tableView"]
+- ["So20UIFocusItemContainerP", "TermsTableViewCell"]
+- ["So20UIFocusItemContainerP", "UISearchController"]
+- ["So20UIFocusItemContainerP", "UITableView"]
+- ["So20UIFocusItemContainerP", ""]
+- !private ["So20UIFocusItemContainerP", "addSubview"]
+- !private ["So20UIFocusItemContainerP", "backgroundColor"]
+- ["So20UIFocusItemContainerP", "configureView"]
+- !private ["So20UIFocusItemContainerP", "frame"]
+- ["So20UIFocusItemContainerP", "init"]
+- ["So20UIFocusItemContainerP", "placeholder"]
+- ["So20UIFocusItemContainerP", "register"]
+- ["So20UIFocusItemContainerP", "rowHeight"]
+- !private ["So20UIFocusItemContainerP", "tableView"]
+- !private ["So30UIFocusItemScrollableContainerP", "frame"]
+- ["So30UIFocusItemScrollableContainerP", "init"]
+- ["So30UIFocusItemScrollableContainerP", "register"]
+- ["So30UIFocusItemScrollableContainerP", "rowHeight"]
+- ["So24UILargeContentViewerItemP", "TermsTableViewCell"]
+- ["So24UILargeContentViewerItemP", "UISearchController"]
+- ["So24UILargeContentViewerItemP", "UITableView"]
+- ["So24UILargeContentViewerItemP", ""]
+- !private ["So24UILargeContentViewerItemP", "addSubview"]
+- !private ["So24UILargeContentViewerItemP", "backgroundColor"]
+- ["So24UILargeContentViewerItemP", "configureView"]
+- !private ["So24UILargeContentViewerItemP", "frame"]
+- ["So24UILargeContentViewerItemP", "init"]
+- ["So24UILargeContentViewerItemP", "placeholder"]
+- ["So24UILargeContentViewerItemP", "register"]
+- ["So24UILargeContentViewerItemP", "rowHeight"]
+- !private ["So24UILargeContentViewerItemP", "tableView"]
+- ["So30UIPasteConfigurationSupportingP", "TermsTableViewCell"]
+- ["So30UIPasteConfigurationSupportingP", "UISearchController"]
+- ["So30UIPasteConfigurationSupportingP", "UITableView"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "addSubview"]
+- !private ["So30UIPasteConfigurationSupportingP", "backgroundColor"]
+- ["So30UIPasteConfigurationSupportingP", "configureView"]
+- !private ["So30UIPasteConfigurationSupportingP", "frame"]
+- ["So30UIPasteConfigurationSupportingP", "init"]
+- ["So30UIPasteConfigurationSupportingP", "placeholder"]
+- ["So30UIPasteConfigurationSupportingP", "register"]
+- ["So30UIPasteConfigurationSupportingP", "rowHeight"]
+- ["So30UIPasteConfigurationSupportingP", "searchBar"]
+- !private ["So30UIPasteConfigurationSupportingP", "tableView"]
+- ["So11UIResponderC", "CGRect"]
+- ["So11UIResponderC", "NSCoder"]
+- ["So11UIResponderC", "TermsTableViewCell"]
+- ["So11UIResponderC", "UISearchController"]
+- ["So11UIResponderC", "UITableView"]
+- !private ["So11UIResponderC", "addSubview"]
+- !private ["So11UIResponderC", "backgroundColor"]
+- ["So11UIResponderC", "configureView"]
+- !private ["So11UIResponderC", "frame"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "placeholder"]
+- ["So11UIResponderC", "register"]
+- ["So11UIResponderC", "rowHeight"]
+- ["So11UIResponderC", "searchBar"]
+- ["So11UIResponderC", "searchController"]
+- ["So11UIResponderC", "tableView"]
+- ["So30UIResponderStandardEditActionsP", "TermsTableViewCell"]
+- ["So30UIResponderStandardEditActionsP", "UISearchController"]
+- ["So30UIResponderStandardEditActionsP", "UITableView"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "addSubview"]
+- !private ["So30UIResponderStandardEditActionsP", "backgroundColor"]
+- ["So30UIResponderStandardEditActionsP", "configureView"]
+- !private ["So30UIResponderStandardEditActionsP", "frame"]
+- ["So30UIResponderStandardEditActionsP", "init"]
+- ["So30UIResponderStandardEditActionsP", "placeholder"]
+- ["So30UIResponderStandardEditActionsP", "register"]
+- ["So30UIResponderStandardEditActionsP", "rowHeight"]
+- ["So30UIResponderStandardEditActionsP", "searchBar"]
+- !private ["So30UIResponderStandardEditActionsP", "tableView"]
+- !private ["So12UIScrollViewC", "frame"]
+- ["So12UIScrollViewC", "init"]
+- ["So12UIScrollViewC", "register"]
+- ["So12UIScrollViewC", "rowHeight"]
+- ["So11UISearchBarC", "placeholder"]
+- ["So18UISearchControllerC", "init"]
+- ["So18UISearchControllerC", "searchBar"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "frame"]
+- ["So35UISpringLoadedInteractionSupportingP", "init"]
+- ["So35UISpringLoadedInteractionSupportingP", "register"]
+- ["So35UISpringLoadedInteractionSupportingP", "rowHeight"]
+- ["So16UIStateRestoringP", "init"]
+- ["So16UIStateRestoringP", "searchBar"]
+- !private ["So11UITableViewC", "frame"]
+- ["So11UITableViewC", "init"]
+- ["So11UITableViewC", "register"]
+- ["So11UITableViewC", "rowHeight"]
+- ["So17UITextInputTraitsP", "placeholder"]
+- ["So18UITraitEnvironmentP", "TermsTableViewCell"]
+- ["So18UITraitEnvironmentP", "UISearchController"]
+- ["So18UITraitEnvironmentP", "UITableView"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "addSubview"]
+- !private ["So18UITraitEnvironmentP", "backgroundColor"]
+- ["So18UITraitEnvironmentP", "configureView"]
+- !private ["So18UITraitEnvironmentP", "frame"]
+- ["So18UITraitEnvironmentP", "init"]
+- ["So18UITraitEnvironmentP", "placeholder"]
+- ["So18UITraitEnvironmentP", "register"]
+- ["So18UITraitEnvironmentP", "rowHeight"]
+- ["So18UITraitEnvironmentP", "searchBar"]
+- !private ["So18UITraitEnvironmentP", "tableView"]
+- ["So23UIUserActivityRestoringP", "TermsTableViewCell"]
+- ["So23UIUserActivityRestoringP", "UISearchController"]
+- ["So23UIUserActivityRestoringP", "UITableView"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "addSubview"]
+- !private ["So23UIUserActivityRestoringP", "backgroundColor"]
+- ["So23UIUserActivityRestoringP", "configureView"]
+- !private ["So23UIUserActivityRestoringP", "frame"]
+- ["So23UIUserActivityRestoringP", "init"]
+- ["So23UIUserActivityRestoringP", "placeholder"]
+- ["So23UIUserActivityRestoringP", "register"]
+- ["So23UIUserActivityRestoringP", "rowHeight"]
+- ["So23UIUserActivityRestoringP", "searchBar"]
+- !private ["So23UIUserActivityRestoringP", "tableView"]
+- ["So6UIViewC", "CGRect"]
+- ["So6UIViewC", "NSCoder"]
+- ["So6UIViewC", "TermsTableViewCell"]
+- ["So6UIViewC", "UISearchController"]
+- ["So6UIViewC", "UITableView"]
+- ["So6UIViewC", ""]
+- !private ["So6UIViewC", "addSubview"]
+- !private ["So6UIViewC", "backgroundColor"]
+- ["So6UIViewC", "configureView"]
+- !private ["So6UIViewC", "frame"]
+- ["So6UIViewC", "init"]
+- ["So6UIViewC", "placeholder"]
+- ["So6UIViewC", "register"]
+- ["So6UIViewC", "rowHeight"]
+- ["So6UIViewC", "searchController"]
+- ["So6UIViewC", "tableView"]
+- ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "searchBar"]
+- ["So37UIViewControllerAnimatedTransitioningP", "init"]
+- ["So37UIViewControllerAnimatedTransitioningP", "searchBar"]
+- ["So37UIViewControllerTransitioningDelegateP", "init"]
+- ["So37UIViewControllerTransitioningDelegateP", "searchBar"]
+- ["7IOSCase8ViewTypeP", "TermsTableViewCell"]
+- ["7IOSCase8ViewTypeP", "UISearchController"]
+- ["7IOSCase8ViewTypeP", "UITableView"]
+- ["7IOSCase8ViewTypeP", ""]
+- !private ["7IOSCase8ViewTypeP", "addSubview"]
+- !private ["7IOSCase8ViewTypeP", "backgroundColor"]
+- ["7IOSCase8ViewTypeP", "configureView"]
+- !private ["7IOSCase8ViewTypeP", "frame"]
+- !private ["7IOSCase8ViewTypeP", "tableView"]
+- ["s30_CustomPlaygroundQuickLookableP", "zero"]
+- !private ["s26_ExpressibleByColorLiteralP", "white"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "TermsTableViewCell"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "UISearchController"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "UITableView"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addSubview"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "backgroundColor"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "configureView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "frame"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "placeholder"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "register"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "rowHeight"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "searchBar"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "tableView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "white"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "TermsTableViewCell"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UISearchController"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UITableView"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "addSubview"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "backgroundColor"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "configureView"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "frame"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "placeholder"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "register"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "rowHeight"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "searchBar"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "tableView"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "white"]
+- !private ["s21_ObjectiveCBridgeableP", "white"]
+- ["s21_ObjectiveCBridgeableP", "zero"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "TermsTableViewCell"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "UISearchController"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "UITableView"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", ""]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "addSubview"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "backgroundColor"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "configureView"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "frame"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "init"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "placeholder"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "register"]
+- ["s38__DefaultCustomPlaygroundQuickLookableP", "rowHeight"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "tableView"]
+depends-nominal:
+- "So15CALayerDelegateP"
+- "So6CGRectV"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- "SE"
+- "SQ"
+- !private "s23ExpressibleByNilLiteralP"
+- "7RxCocoa13HasDataSourceP"
+- "7RxCocoa11HasDelegateP"
+- "7RxCocoa21HasPrefetchDataSourceP"
+- "SH"
+- "7RxCocoa16KVORepresentableP"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "Sq"
+- "SY"
+- "7RxSwift18ReactiveCompatibleP"
+- "So16UITableViewStyleV"
+- "7IOSCase13TermsListViewC"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So16UIBarPositioningP"
+- !private "So7UIColorC"
+- "So18UIContentContainerP"
+- "So17UICoordinateSpaceP"
+- "So23UIDataSourceTranslatingP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- "So30UIFocusItemScrollableContainerP"
+- "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So12UIScrollViewC"
+- "So11UISearchBarC"
+- "So18UISearchControllerC"
+- "So35UISpringLoadedInteractionSupportingP"
+- "So16UIStateRestoringP"
+- "So11UITableViewC"
+- "So17UITextInputTraitsP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "So16UIViewControllerC"
+- "So37UIViewControllerAnimatedTransitioningP"
+- "So37UIViewControllerTransitioningDelegateP"
+- "7IOSCase8ViewTypeP"
+- "s30_CustomPlaygroundQuickLookableP"
+- !private "s26_ExpressibleByColorLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- "s21_ObjectiveCBridgeableP"
+- "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreMIDI.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreMedia.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/simd.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Accelerate.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/AVFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreAudio.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/os.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Modules/RxCocoa.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Modules/Kingfisher.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxSwift/RxSwift.framework/Modules/RxSwift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxRelay/RxRelay.framework/Modules/RxRelay.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/_RX.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/RxCocoa-umbrella.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher-umbrella.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxSwift/RxSwift.framework/Headers/RxSwift-umbrella.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxRelay/RxRelay.framework/Headers/RxRelay-umbrella.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/RxCocoa.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/_RXObjCRuntime.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/RxCocoaRuntime.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/_RXKVOObserver.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/RxCocoa-Swift.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher-Swift.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxSwift/RxSwift.framework/Headers/RxSwift-Swift.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxRelay/RxRelay.framework/Headers/RxRelay-Swift.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/_RXDelegateProxy.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Modules/module.modulemap"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Modules/module.modulemap"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxSwift/RxSwift.framework/Modules/module.modulemap"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxRelay/RxRelay.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreMedia.framework/Headers/CoreMedia.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Accelerate.framework/Headers/Accelerate.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreAudioTypes.framework/Headers/CoreAudioTypes.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/os.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/AVKit.framework/Headers/AVKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/WebKit.framework/Headers/WebKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/MediaToolbox.framework/Headers/MediaToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "89041fe93a74f5bb57e211e6dacdca51"

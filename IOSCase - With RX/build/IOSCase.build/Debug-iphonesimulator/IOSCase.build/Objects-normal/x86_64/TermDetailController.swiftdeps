@@ -1,0 +1,695 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "TermDetailController"
+provides-nominal:
+- "7IOSCase20TermDetailControllerC"
+provides-member:
+- ["7IOSCase20TermDetailControllerC", ""]
+provides-dynamic-lookup:
+- "_view"
+- "bindViewModel"
+- "configureController"
+- "viewDidLoad"
+- "viewModel"
+depends-top-level:
+- !private "!="
+- "AssignmentPrecedence"
+- "BaseViewController"
+- !private "StringLiteralType"
+- "TermDetailController"
+- "TermDetailView"
+- "TermDetailViewModel"
+- !private "mainThread"
+depends-member:
+- ["7IOSCase18BaseViewControllerC", "TermDetailView"]
+- ["7IOSCase18BaseViewControllerC", "TermDetailViewModel"]
+- ["7IOSCase18BaseViewControllerC", ""]
+- ["7IOSCase18BaseViewControllerC", "_view"]
+- ["7IOSCase18BaseViewControllerC", "bindViewModel"]
+- ["7IOSCase18BaseViewControllerC", "configureController"]
+- !private ["7IOSCase18BaseViewControllerC", "deinit"]
+- ["7IOSCase18BaseViewControllerC", "init"]
+- !private ["7IOSCase18BaseViewControllerC", "mainThread"]
+- !private ["7IOSCase18BaseViewControllerC", "showMessage"]
+- !private ["7IOSCase18BaseViewControllerC", "view"]
+- ["7IOSCase18BaseViewControllerC", "viewDidLoad"]
+- ["7IOSCase18BaseViewControllerC", "viewModel"]
+- !private ["So15CALayerDelegateP", "addSubview"]
+- !private ["So15CALayerDelegateP", "artWorkImageView"]
+- !private ["So15CALayerDelegateP", "download"]
+- !private ["So15CALayerDelegateP", "frame"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "termDescriptionLabel"]
+- !private ["So15CALayerDelegateP", "termTitleLabel"]
+- !private ["So15CALayerDelegateP", "text"]
+- !private ["s7CVarArgP", "TermDetailView"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "_view"]
+- !private ["s7CVarArgP", "addSubview"]
+- !private ["s7CVarArgP", "artWorkImageView"]
+- !private ["s7CVarArgP", "bindViewModel"]
+- !private ["s7CVarArgP", "configureController"]
+- !private ["s7CVarArgP", "download"]
+- !private ["s7CVarArgP", "frame"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "mainThread"]
+- !private ["s7CVarArgP", "showMessage"]
+- !private ["s7CVarArgP", "termDescriptionLabel"]
+- !private ["s7CVarArgP", "termTitleLabel"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "view"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["s7CVarArgP", "viewModel"]
+- !private ["s28CustomDebugStringConvertibleP", "TermDetailView"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "_view"]
+- !private ["s28CustomDebugStringConvertibleP", "addSubview"]
+- !private ["s28CustomDebugStringConvertibleP", "artWorkImageView"]
+- !private ["s28CustomDebugStringConvertibleP", "bindViewModel"]
+- !private ["s28CustomDebugStringConvertibleP", "configureController"]
+- !private ["s28CustomDebugStringConvertibleP", "download"]
+- !private ["s28CustomDebugStringConvertibleP", "frame"]
+- !private ["s28CustomDebugStringConvertibleP", "getArtWorkUrl"]
+- !private ["s28CustomDebugStringConvertibleP", "getTermDescription"]
+- !private ["s28CustomDebugStringConvertibleP", "getTermTitle"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "mainThread"]
+- !private ["s28CustomDebugStringConvertibleP", "showMessage"]
+- !private ["s28CustomDebugStringConvertibleP", "termDescriptionLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "termTitleLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "view"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s28CustomDebugStringConvertibleP", "viewModel"]
+- !private ["s17CustomReflectableP", "addSubview"]
+- !private ["s17CustomReflectableP", "artWorkImageView"]
+- !private ["s17CustomReflectableP", "frame"]
+- !private ["s17CustomReflectableP", "getArtWorkUrl"]
+- !private ["s17CustomReflectableP", "getTermDescription"]
+- !private ["s17CustomReflectableP", "getTermTitle"]
+- !private ["s17CustomReflectableP", "termDescriptionLabel"]
+- !private ["s17CustomReflectableP", "termTitleLabel"]
+- !private ["s23CustomStringConvertibleP", "TermDetailView"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "_view"]
+- !private ["s23CustomStringConvertibleP", "addSubview"]
+- !private ["s23CustomStringConvertibleP", "artWorkImageView"]
+- !private ["s23CustomStringConvertibleP", "bindViewModel"]
+- !private ["s23CustomStringConvertibleP", "configureController"]
+- !private ["s23CustomStringConvertibleP", "download"]
+- !private ["s23CustomStringConvertibleP", "frame"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "mainThread"]
+- !private ["s23CustomStringConvertibleP", "showMessage"]
+- !private ["s23CustomStringConvertibleP", "termDescriptionLabel"]
+- !private ["s23CustomStringConvertibleP", "termTitleLabel"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "view"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["s23CustomStringConvertibleP", "viewModel"]
+- !private ["Se", "addSubview"]
+- !private ["Se", "artWorkImageView"]
+- !private ["Se", "frame"]
+- !private ["Se", "getArtWorkUrl"]
+- !private ["Se", "getTermDescription"]
+- !private ["Se", "getTermTitle"]
+- !private ["Se", "termDescriptionLabel"]
+- !private ["Se", "termTitleLabel"]
+- !private ["SE", "addSubview"]
+- !private ["SE", "artWorkImageView"]
+- !private ["SE", "frame"]
+- !private ["SE", "getArtWorkUrl"]
+- !private ["SE", "getTermDescription"]
+- !private ["SE", "getTermTitle"]
+- !private ["SE", "termDescriptionLabel"]
+- !private ["SE", "termTitleLabel"]
+- !private ["SQ", "TermDetailView"]
+- ["SQ", ""]
+- !private ["SQ", "_view"]
+- !private ["SQ", "addSubview"]
+- !private ["SQ", "artWorkImageView"]
+- !private ["SQ", "bindViewModel"]
+- !private ["SQ", "configureController"]
+- !private ["SQ", "download"]
+- !private ["SQ", "frame"]
+- !private ["SQ", "getArtWorkUrl"]
+- !private ["SQ", "getTermDescription"]
+- !private ["SQ", "getTermTitle"]
+- !private ["SQ", "init"]
+- !private ["SQ", "mainThread"]
+- !private ["SQ", "showMessage"]
+- !private ["SQ", "termDescriptionLabel"]
+- !private ["SQ", "termTitleLabel"]
+- !private ["SQ", "text"]
+- !private ["SQ", "view"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["SQ", "viewModel"]
+- !private ["s23ExpressibleByNilLiteralP", "addSubview"]
+- !private ["s23ExpressibleByNilLiteralP", "artWorkImageView"]
+- !private ["s23ExpressibleByNilLiteralP", "frame"]
+- !private ["s23ExpressibleByNilLiteralP", "getArtWorkUrl"]
+- !private ["s23ExpressibleByNilLiteralP", "getTermDescription"]
+- !private ["s23ExpressibleByNilLiteralP", "getTermTitle"]
+- !private ["s23ExpressibleByNilLiteralP", "termDescriptionLabel"]
+- !private ["s23ExpressibleByNilLiteralP", "termTitleLabel"]
+- !private ["SH", "TermDetailView"]
+- ["SH", ""]
+- !private ["SH", "_view"]
+- !private ["SH", "addSubview"]
+- !private ["SH", "artWorkImageView"]
+- !private ["SH", "bindViewModel"]
+- !private ["SH", "configureController"]
+- !private ["SH", "download"]
+- !private ["SH", "frame"]
+- !private ["SH", "getArtWorkUrl"]
+- !private ["SH", "getTermDescription"]
+- !private ["SH", "getTermTitle"]
+- !private ["SH", "init"]
+- !private ["SH", "mainThread"]
+- !private ["SH", "showMessage"]
+- !private ["SH", "termDescriptionLabel"]
+- !private ["SH", "termTitleLabel"]
+- !private ["SH", "text"]
+- !private ["SH", "view"]
+- !private ["SH", "viewDidLoad"]
+- !private ["SH", "viewModel"]
+- !private ["10Kingfisher0A10CompatibleP", "download"]
+- !private ["So8NSCodingP", "TermDetailView"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "_view"]
+- !private ["So8NSCodingP", "addSubview"]
+- !private ["So8NSCodingP", "artWorkImageView"]
+- !private ["So8NSCodingP", "bindViewModel"]
+- !private ["So8NSCodingP", "configureController"]
+- !private ["So8NSCodingP", "download"]
+- !private ["So8NSCodingP", "frame"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "mainThread"]
+- !private ["So8NSCodingP", "showMessage"]
+- !private ["So8NSCodingP", "termDescriptionLabel"]
+- !private ["So8NSCodingP", "termTitleLabel"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So8NSCodingP", "view"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So8NSCodingP", "viewModel"]
+- !private ["So26NSExtensionRequestHandlingP", "TermDetailView"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "_view"]
+- !private ["So26NSExtensionRequestHandlingP", "bindViewModel"]
+- !private ["So26NSExtensionRequestHandlingP", "configureController"]
+- !private ["So26NSExtensionRequestHandlingP", "mainThread"]
+- !private ["So26NSExtensionRequestHandlingP", "showMessage"]
+- !private ["So26NSExtensionRequestHandlingP", "view"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So26NSExtensionRequestHandlingP", "viewModel"]
+- ["So8NSObjectC", "TermDetailView"]
+- ["So8NSObjectC", "TermDetailViewModel"]
+- ["So8NSObjectC", "_view"]
+- !private ["So8NSObjectC", "addSubview"]
+- !private ["So8NSObjectC", "artWorkImageView"]
+- ["So8NSObjectC", "bindViewModel"]
+- ["So8NSObjectC", "configureController"]
+- !private ["So8NSObjectC", "download"]
+- !private ["So8NSObjectC", "frame"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "mainThread"]
+- !private ["So8NSObjectC", "showMessage"]
+- !private ["So8NSObjectC", "termDescriptionLabel"]
+- !private ["So8NSObjectC", "termTitleLabel"]
+- !private ["So8NSObjectC", "text"]
+- !private ["So8NSObjectC", "view"]
+- ["So8NSObjectC", "viewDidLoad"]
+- ["So8NSObjectC", "viewModel"]
+- !private ["So8NSObjectP", "TermDetailView"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "_view"]
+- !private ["So8NSObjectP", "addSubview"]
+- !private ["So8NSObjectP", "artWorkImageView"]
+- !private ["So8NSObjectP", "bindViewModel"]
+- !private ["So8NSObjectP", "configureController"]
+- !private ["So8NSObjectP", "download"]
+- !private ["So8NSObjectP", "frame"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "mainThread"]
+- !private ["So8NSObjectP", "showMessage"]
+- !private ["So8NSObjectP", "termDescriptionLabel"]
+- !private ["So8NSObjectP", "termTitleLabel"]
+- !private ["So8NSObjectP", "text"]
+- !private ["So8NSObjectP", "view"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["So8NSObjectP", "viewModel"]
+- !private ["Sq", "addSubview"]
+- !private ["Sq", "artWorkImageView"]
+- !private ["Sq", "frame"]
+- !private ["Sq", "getArtWorkUrl"]
+- !private ["Sq", "getTermDescription"]
+- !private ["Sq", "getTermTitle"]
+- !private ["Sq", "termDescriptionLabel"]
+- !private ["Sq", "termTitleLabel"]
+- !private ["7RxSwift18ReactiveCompatibleP", "TermDetailView"]
+- ["7RxSwift18ReactiveCompatibleP", ""]
+- !private ["7RxSwift18ReactiveCompatibleP", "_view"]
+- !private ["7RxSwift18ReactiveCompatibleP", "addSubview"]
+- !private ["7RxSwift18ReactiveCompatibleP", "artWorkImageView"]
+- !private ["7RxSwift18ReactiveCompatibleP", "bindViewModel"]
+- !private ["7RxSwift18ReactiveCompatibleP", "configureController"]
+- !private ["7RxSwift18ReactiveCompatibleP", "download"]
+- !private ["7RxSwift18ReactiveCompatibleP", "frame"]
+- !private ["7RxSwift18ReactiveCompatibleP", "init"]
+- !private ["7RxSwift18ReactiveCompatibleP", "mainThread"]
+- !private ["7RxSwift18ReactiveCompatibleP", "showMessage"]
+- !private ["7RxSwift18ReactiveCompatibleP", "termDescriptionLabel"]
+- !private ["7RxSwift18ReactiveCompatibleP", "termTitleLabel"]
+- !private ["7RxSwift18ReactiveCompatibleP", "text"]
+- !private ["7RxSwift18ReactiveCompatibleP", "view"]
+- !private ["7RxSwift18ReactiveCompatibleP", "viewDidLoad"]
+- !private ["7RxSwift18ReactiveCompatibleP", "viewModel"]
+- ["7IOSCase20TermDetailControllerC", "TermDetailView"]
+- ["7IOSCase20TermDetailControllerC", "TermDetailViewModel"]
+- ["7IOSCase20TermDetailControllerC", "_view"]
+- ["7IOSCase20TermDetailControllerC", "bindViewModel"]
+- ["7IOSCase20TermDetailControllerC", "configureController"]
+- ["7IOSCase20TermDetailControllerC", "deinit"]
+- ["7IOSCase20TermDetailControllerC", "init"]
+- !private ["7IOSCase20TermDetailControllerC", "mainThread"]
+- !private ["7IOSCase20TermDetailControllerC", "showMessage"]
+- !private ["7IOSCase20TermDetailControllerC", "view"]
+- ["7IOSCase20TermDetailControllerC", "viewDidLoad"]
+- ["7IOSCase20TermDetailControllerC", "viewModel"]
+- !private ["7IOSCase14TermDetailViewC", "artWorkImageView"]
+- !private ["7IOSCase14TermDetailViewC", "deinit"]
+- !private ["7IOSCase14TermDetailViewC", "init"]
+- !private ["7IOSCase14TermDetailViewC", "termDescriptionLabel"]
+- !private ["7IOSCase14TermDetailViewC", "termTitleLabel"]
+- !private ["7IOSCase19TermDetailViewModelC", "getArtWorkUrl"]
+- !private ["7IOSCase19TermDetailViewModelC", "getTermDescription"]
+- !private ["7IOSCase19TermDetailViewModelC", "getTermTitle"]
+- !private ["So48UIAccessibilityContentSizeCategoryImageAdjustingP", "download"]
+- !private ["So29UIAccessibilityIdentificationP", "addSubview"]
+- !private ["So29UIAccessibilityIdentificationP", "artWorkImageView"]
+- !private ["So29UIAccessibilityIdentificationP", "download"]
+- !private ["So29UIAccessibilityIdentificationP", "frame"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "termDescriptionLabel"]
+- !private ["So29UIAccessibilityIdentificationP", "termTitleLabel"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So12UIAppearanceP", "addSubview"]
+- !private ["So12UIAppearanceP", "artWorkImageView"]
+- !private ["So12UIAppearanceP", "download"]
+- !private ["So12UIAppearanceP", "frame"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So12UIAppearanceP", "termDescriptionLabel"]
+- !private ["So12UIAppearanceP", "termTitleLabel"]
+- !private ["So12UIAppearanceP", "text"]
+- !private ["So21UIAppearanceContainerP", "TermDetailView"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "_view"]
+- !private ["So21UIAppearanceContainerP", "addSubview"]
+- !private ["So21UIAppearanceContainerP", "artWorkImageView"]
+- !private ["So21UIAppearanceContainerP", "bindViewModel"]
+- !private ["So21UIAppearanceContainerP", "configureController"]
+- !private ["So21UIAppearanceContainerP", "download"]
+- !private ["So21UIAppearanceContainerP", "frame"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "mainThread"]
+- !private ["So21UIAppearanceContainerP", "showMessage"]
+- !private ["So21UIAppearanceContainerP", "termDescriptionLabel"]
+- !private ["So21UIAppearanceContainerP", "termTitleLabel"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So21UIAppearanceContainerP", "view"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So21UIAppearanceContainerP", "viewModel"]
+- !private ["So18UIContentContainerP", "TermDetailView"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "_view"]
+- !private ["So18UIContentContainerP", "bindViewModel"]
+- !private ["So18UIContentContainerP", "configureController"]
+- !private ["So18UIContentContainerP", "mainThread"]
+- !private ["So18UIContentContainerP", "showMessage"]
+- !private ["So18UIContentContainerP", "view"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So18UIContentContainerP", "viewModel"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So17UICoordinateSpaceP", "addSubview"]
+- !private ["So17UICoordinateSpaceP", "artWorkImageView"]
+- !private ["So17UICoordinateSpaceP", "download"]
+- !private ["So17UICoordinateSpaceP", "frame"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So17UICoordinateSpaceP", "termDescriptionLabel"]
+- !private ["So17UICoordinateSpaceP", "termTitleLabel"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So13UIDynamicItemP", "addSubview"]
+- !private ["So13UIDynamicItemP", "artWorkImageView"]
+- !private ["So13UIDynamicItemP", "download"]
+- !private ["So13UIDynamicItemP", "frame"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So13UIDynamicItemP", "termDescriptionLabel"]
+- !private ["So13UIDynamicItemP", "termTitleLabel"]
+- !private ["So13UIDynamicItemP", "text"]
+- !private ["So18UIFocusEnvironmentP", "TermDetailView"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "_view"]
+- !private ["So18UIFocusEnvironmentP", "addSubview"]
+- !private ["So18UIFocusEnvironmentP", "artWorkImageView"]
+- !private ["So18UIFocusEnvironmentP", "bindViewModel"]
+- !private ["So18UIFocusEnvironmentP", "configureController"]
+- !private ["So18UIFocusEnvironmentP", "download"]
+- !private ["So18UIFocusEnvironmentP", "frame"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "mainThread"]
+- !private ["So18UIFocusEnvironmentP", "showMessage"]
+- !private ["So18UIFocusEnvironmentP", "termDescriptionLabel"]
+- !private ["So18UIFocusEnvironmentP", "termTitleLabel"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So18UIFocusEnvironmentP", "view"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So18UIFocusEnvironmentP", "viewModel"]
+- !private ["So11UIFocusItemP", "addSubview"]
+- !private ["So11UIFocusItemP", "artWorkImageView"]
+- !private ["So11UIFocusItemP", "download"]
+- !private ["So11UIFocusItemP", "frame"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So11UIFocusItemP", "termDescriptionLabel"]
+- !private ["So11UIFocusItemP", "termTitleLabel"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So20UIFocusItemContainerP", "addSubview"]
+- !private ["So20UIFocusItemContainerP", "artWorkImageView"]
+- !private ["So20UIFocusItemContainerP", "download"]
+- !private ["So20UIFocusItemContainerP", "frame"]
+- !private ["So20UIFocusItemContainerP", "init"]
+- !private ["So20UIFocusItemContainerP", "termDescriptionLabel"]
+- !private ["So20UIFocusItemContainerP", "termTitleLabel"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So11UIImageViewC", "download"]
+- !private ["So7UILabelC", "text"]
+- !private ["So24UILargeContentViewerItemP", "addSubview"]
+- !private ["So24UILargeContentViewerItemP", "artWorkImageView"]
+- !private ["So24UILargeContentViewerItemP", "download"]
+- !private ["So24UILargeContentViewerItemP", "frame"]
+- !private ["So24UILargeContentViewerItemP", "init"]
+- !private ["So24UILargeContentViewerItemP", "termDescriptionLabel"]
+- !private ["So24UILargeContentViewerItemP", "termTitleLabel"]
+- !private ["So24UILargeContentViewerItemP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "TermDetailView"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "_view"]
+- !private ["So30UIPasteConfigurationSupportingP", "addSubview"]
+- !private ["So30UIPasteConfigurationSupportingP", "artWorkImageView"]
+- !private ["So30UIPasteConfigurationSupportingP", "bindViewModel"]
+- !private ["So30UIPasteConfigurationSupportingP", "configureController"]
+- !private ["So30UIPasteConfigurationSupportingP", "download"]
+- !private ["So30UIPasteConfigurationSupportingP", "frame"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "mainThread"]
+- !private ["So30UIPasteConfigurationSupportingP", "showMessage"]
+- !private ["So30UIPasteConfigurationSupportingP", "termDescriptionLabel"]
+- !private ["So30UIPasteConfigurationSupportingP", "termTitleLabel"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "view"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewModel"]
+- ["So11UIResponderC", "TermDetailView"]
+- ["So11UIResponderC", "TermDetailViewModel"]
+- ["So11UIResponderC", "_view"]
+- !private ["So11UIResponderC", "addSubview"]
+- !private ["So11UIResponderC", "artWorkImageView"]
+- ["So11UIResponderC", "bindViewModel"]
+- ["So11UIResponderC", "configureController"]
+- !private ["So11UIResponderC", "download"]
+- !private ["So11UIResponderC", "frame"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "mainThread"]
+- !private ["So11UIResponderC", "showMessage"]
+- !private ["So11UIResponderC", "termDescriptionLabel"]
+- !private ["So11UIResponderC", "termTitleLabel"]
+- !private ["So11UIResponderC", "text"]
+- !private ["So11UIResponderC", "view"]
+- ["So11UIResponderC", "viewDidLoad"]
+- ["So11UIResponderC", "viewModel"]
+- !private ["So30UIResponderStandardEditActionsP", "TermDetailView"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "_view"]
+- !private ["So30UIResponderStandardEditActionsP", "addSubview"]
+- !private ["So30UIResponderStandardEditActionsP", "artWorkImageView"]
+- !private ["So30UIResponderStandardEditActionsP", "bindViewModel"]
+- !private ["So30UIResponderStandardEditActionsP", "configureController"]
+- !private ["So30UIResponderStandardEditActionsP", "download"]
+- !private ["So30UIResponderStandardEditActionsP", "frame"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "mainThread"]
+- !private ["So30UIResponderStandardEditActionsP", "showMessage"]
+- !private ["So30UIResponderStandardEditActionsP", "termDescriptionLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "termTitleLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So30UIResponderStandardEditActionsP", "view"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So30UIResponderStandardEditActionsP", "viewModel"]
+- !private ["So16UIStateRestoringP", "TermDetailView"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "_view"]
+- !private ["So16UIStateRestoringP", "bindViewModel"]
+- !private ["So16UIStateRestoringP", "configureController"]
+- !private ["So16UIStateRestoringP", "mainThread"]
+- !private ["So16UIStateRestoringP", "showMessage"]
+- !private ["So16UIStateRestoringP", "view"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So16UIStateRestoringP", "viewModel"]
+- !private ["So18UITraitEnvironmentP", "TermDetailView"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "_view"]
+- !private ["So18UITraitEnvironmentP", "addSubview"]
+- !private ["So18UITraitEnvironmentP", "artWorkImageView"]
+- !private ["So18UITraitEnvironmentP", "bindViewModel"]
+- !private ["So18UITraitEnvironmentP", "configureController"]
+- !private ["So18UITraitEnvironmentP", "download"]
+- !private ["So18UITraitEnvironmentP", "frame"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "mainThread"]
+- !private ["So18UITraitEnvironmentP", "showMessage"]
+- !private ["So18UITraitEnvironmentP", "termDescriptionLabel"]
+- !private ["So18UITraitEnvironmentP", "termTitleLabel"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So18UITraitEnvironmentP", "view"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- !private ["So18UITraitEnvironmentP", "viewModel"]
+- !private ["So23UIUserActivityRestoringP", "TermDetailView"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "_view"]
+- !private ["So23UIUserActivityRestoringP", "addSubview"]
+- !private ["So23UIUserActivityRestoringP", "artWorkImageView"]
+- !private ["So23UIUserActivityRestoringP", "bindViewModel"]
+- !private ["So23UIUserActivityRestoringP", "configureController"]
+- !private ["So23UIUserActivityRestoringP", "download"]
+- !private ["So23UIUserActivityRestoringP", "frame"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "mainThread"]
+- !private ["So23UIUserActivityRestoringP", "showMessage"]
+- !private ["So23UIUserActivityRestoringP", "termDescriptionLabel"]
+- !private ["So23UIUserActivityRestoringP", "termTitleLabel"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- !private ["So23UIUserActivityRestoringP", "view"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So23UIUserActivityRestoringP", "viewModel"]
+- !private ["So6UIViewC", "addSubview"]
+- !private ["So6UIViewC", "artWorkImageView"]
+- !private ["So6UIViewC", "download"]
+- !private ["So6UIViewC", "frame"]
+- !private ["So6UIViewC", "init"]
+- !private ["So6UIViewC", "termDescriptionLabel"]
+- !private ["So6UIViewC", "termTitleLabel"]
+- !private ["So6UIViewC", "text"]
+- ["So16UIViewControllerC", "TermDetailView"]
+- ["So16UIViewControllerC", "TermDetailViewModel"]
+- ["So16UIViewControllerC", "_view"]
+- ["So16UIViewControllerC", "bindViewModel"]
+- ["So16UIViewControllerC", "configureController"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "mainThread"]
+- !private ["So16UIViewControllerC", "showMessage"]
+- !private ["So16UIViewControllerC", "view"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- ["So16UIViewControllerC", "viewModel"]
+- !private ["7IOSCase18ViewControllerTypeP", "TermDetailView"]
+- ["7IOSCase18ViewControllerTypeP", ""]
+- !private ["7IOSCase18ViewControllerTypeP", "_view"]
+- !private ["7IOSCase18ViewControllerTypeP", "bindViewModel"]
+- !private ["7IOSCase18ViewControllerTypeP", "configureController"]
+- !private ["7IOSCase18ViewControllerTypeP", "mainThread"]
+- !private ["7IOSCase18ViewControllerTypeP", "showMessage"]
+- !private ["7IOSCase18ViewControllerTypeP", "view"]
+- !private ["7IOSCase18ViewControllerTypeP", "viewDidLoad"]
+- !private ["7IOSCase18ViewControllerTypeP", "viewModel"]
+- !private ["7IOSCase8ViewTypeP", "artWorkImageView"]
+- !private ["7IOSCase8ViewTypeP", "init"]
+- !private ["7IOSCase8ViewTypeP", "termDescriptionLabel"]
+- !private ["7IOSCase8ViewTypeP", "termTitleLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "TermDetailView"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "_view"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addSubview"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "artWorkImageView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bindViewModel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "configureController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "download"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "frame"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "mainThread"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "showMessage"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "termDescriptionLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "termTitleLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "view"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewModel"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "TermDetailView"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "_view"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "addSubview"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "artWorkImageView"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "bindViewModel"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "configureController"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "download"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "frame"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "mainThread"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "showMessage"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "termDescriptionLabel"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "termTitleLabel"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "text"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "view"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewDidLoad"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "viewModel"]
+- !private ["s21_ObjectiveCBridgeableP", "addSubview"]
+- !private ["s21_ObjectiveCBridgeableP", "artWorkImageView"]
+- !private ["s21_ObjectiveCBridgeableP", "frame"]
+- !private ["s21_ObjectiveCBridgeableP", "getArtWorkUrl"]
+- !private ["s21_ObjectiveCBridgeableP", "getTermDescription"]
+- !private ["s21_ObjectiveCBridgeableP", "getTermTitle"]
+- !private ["s21_ObjectiveCBridgeableP", "termDescriptionLabel"]
+- !private ["s21_ObjectiveCBridgeableP", "termTitleLabel"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "addSubview"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "artWorkImageView"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "download"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "frame"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "termDescriptionLabel"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "termTitleLabel"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "text"]
+depends-nominal:
+- "7IOSCase18BaseViewControllerC"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s23ExpressibleByNilLiteralP"
+- "SH"
+- !private "10Kingfisher0A10CompatibleP"
+- "So8NSCodingP"
+- "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sq"
+- "7RxSwift18ReactiveCompatibleP"
+- "7IOSCase20TermDetailControllerC"
+- !private "7IOSCase14TermDetailViewC"
+- !private "7IOSCase19TermDetailViewModelC"
+- !private "So48UIAccessibilityContentSizeCategoryImageAdjustingP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So11UIImageViewC"
+- !private "So7UILabelC"
+- !private "So24UILargeContentViewerItemP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- "7IOSCase18ViewControllerTypeP"
+- !private "7IOSCase8ViewTypeP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/ObjectiveC.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreMIDI.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreMedia.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/simd.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreImage.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/QuartzCore.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Accelerate.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Dispatch.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Metal.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Darwin.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Foundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/AVFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreFoundation.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreAudio.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/CoreGraphics.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/os.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Swift.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/UIKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64.swiftmodule"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Modules/RxCocoa.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/prebuilt-modules/Combine.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Modules/Kingfisher.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxSwift/RxSwift.framework/Modules/RxSwift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxRelay/RxRelay.framework/Modules/RxRelay.swiftmodule/x86_64-apple-ios-simulator.swiftmodule"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/_RX.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/RxCocoa-umbrella.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher-umbrella.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxSwift/RxSwift.framework/Headers/RxSwift-umbrella.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxRelay/RxRelay.framework/Headers/RxRelay-umbrella.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/RxCocoa.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/_RXObjCRuntime.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/RxCocoaRuntime.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/_RXKVOObserver.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/RxCocoa-Swift.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Headers/Kingfisher-Swift.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxSwift/RxSwift.framework/Headers/RxSwift-Swift.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxRelay/RxRelay.framework/Headers/RxRelay-Swift.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Headers/_RXDelegateProxy.h"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxCocoa/RxCocoa.framework/Modules/module.modulemap"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/Kingfisher/Kingfisher.framework/Modules/module.modulemap"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxSwift/RxSwift.framework/Modules/module.modulemap"
+- "/Users/ozgun/Desktop/IOSCase/build/Debug-iphonesimulator/RxRelay/RxRelay.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreMedia.framework/Headers/CoreMedia.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Accelerate.framework/Headers/Accelerate.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreAudioTypes.framework/Headers/CoreAudioTypes.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/os.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/AVKit.framework/Headers/AVKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/WebKit.framework/Headers/WebKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/MediaToolbox.framework/Headers/MediaToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator13.6.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "06809aa6c54dd7af54fd402c117f4789"

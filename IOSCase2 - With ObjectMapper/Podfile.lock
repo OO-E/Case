@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (4.9.1)
+  - AlamofireObjectMapper (5.2.1):
+    - Alamofire (~> 4.7)
+    - ObjectMapper (~> 3.4)
+  - Kingfisher (6.0.1)
+  - ObjectMapper (3.5.3)
+  - ReachabilitySwift (5.0.0)
+  - SimpleTwoWayBinding (0.0.2)
+
+DEPENDENCIES:
+  - AlamofireObjectMapper (~> 5.2)
+  - Kingfisher
+  - ReachabilitySwift
+  - SimpleTwoWayBinding
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlamofireObjectMapper
+    - Kingfisher
+    - ObjectMapper
+    - ReachabilitySwift
+    - SimpleTwoWayBinding
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  AlamofireObjectMapper: 1989f690e982b71921b9253f53a4f33a9bc00d88
+  Kingfisher: adde87a4f74f6a3845395769354efff593581740
+  ObjectMapper: 97111c97e054a6ee25917662106689f0b4127b37
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  SimpleTwoWayBinding: 728d751c25d9909ddf2ee76711ab4a8a71e00c69
+
+PODFILE CHECKSUM: f5829f44cae6e6501d9b630ec063a4f2bac295c0
+
+COCOAPODS: 1.10.0
